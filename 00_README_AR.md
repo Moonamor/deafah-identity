@@ -1,4 +1,8 @@
-# حزمة الهوية البصرية — مجموعة الضيافة العالمية
+# هوية مجموعة الضيافة العالمية (`deafah-identity`)
+
+هذا المستودع العام يجمع الهوية البصرية للمجموعة، وبيانات الشركة والفنادق المعتمدة القابلة للنشر (`13_Company_Data`). اسمه السابق `aldeafah-international-group-visual-identity`.
+
+## حزمة الهوية البصرية
 ## مذكرة التسليم (المرحلة 4) — 14 أكتوبر 2026
 
 هذه الحزمة تُكمل ملفات المصمم الأصلية (ملفات .ai الماستر ودليل الهوية وملف ASE والخطوط) ولا تستبدلها. كل قيمة فيها تعود إلى `01_Brand_Reference/ADIG_Brand_Facts.md` أو إلى قرار معتمد مذكور فيه. الشعار والنقشة في كل الملفات مأخوذان من الماسترات بلا إعادة رسم أو تلوين.
@@ -42,5 +46,5 @@
 - مشروع Claude «Visual identity of Deafah»: `claude/ADIG_Brand_Facts.md`، `claude/ADIG_Brand_Guidelines_AR.md`، `claude/ADIG_Phase2_Specs.md`.
 - نظام التصميم (Design System artifact) «Al Deafah International Group».
 - مهارة `al-deafah-brand` لكل وكيل تصميم أو برمجة.
-- المستودع العام `Moonamor/aldeafah-international-group-visual-identity` (تصديرات فقط؛ الماسترات تبقى خاصة).
+- المستودع العام `Moonamor/deafah-identity` (تصديرات فقط؛ الماسترات تبقى خاصة).
 - حقائق الشركة والفنادق: قاعدة المعرفة الخاصة `Moonamor/deafah-company-knowledge` (المصدر الوحيد)، ومنها تتولد النسخة العامة في `13_Company_Data`.

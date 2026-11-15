@@ -12,9 +12,9 @@
 
 ## روابط مباشرة
 
-- https://raw.githubusercontent.com/Moonamor/aldeafah-international-group-visual-identity/main/13_Company_Data/hotels.csv
-- https://raw.githubusercontent.com/Moonamor/aldeafah-international-group-visual-identity/main/13_Company_Data/hotels.json
-- https://raw.githubusercontent.com/Moonamor/aldeafah-international-group-visual-identity/main/13_Company_Data/company.json
+- https://raw.githubusercontent.com/Moonamor/deafah-identity/main/13_Company_Data/hotels.csv
+- https://raw.githubusercontent.com/Moonamor/deafah-identity/main/13_Company_Data/hotels.json
+- https://raw.githubusercontent.com/Moonamor/deafah-identity/main/13_Company_Data/company.json
 
 ## ما لا يوجد هنا عمداً
 

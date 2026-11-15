@@ -1,6 +1,6 @@
-# Al Deafah International Group — Visual Identity Package
+# deafah-identity — Al Deafah International Group
 
-Exports and templates that complete the designer's original brand package (the .ai masters stay private).
+One public home for the group's identity: the **visual identity** (exports and templates that complete the designer's original brand package; the .ai masters stay private) and the **public company knowledge** (`13_Company_Data`: publish-safe company and hotel facts generated from the private knowledge base `Moonamor/deafah-company-knowledge`).
 Start with `00_README_AR.md` (handover note, Arabic) and `01_Brand_Reference/ADIG_Brand_Facts.md` (verified facts and decisions).
 
 Folders: 01 Brand reference · 02 Logo · 03 Symbol · 04 Pattern · 05 Stationery · 06 Social · 07 PowerPoint · 08 Packaging ·
