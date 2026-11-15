@@ -213,7 +213,8 @@
       "name": {
         "ar": "فندق أنوار الضيافة",
         "short_ar": "أنوار الضيافة",
-        "en": "Anwar Al Deafah Hotel"
+        "en": "Anwar Al Deafah Hotel",
+        "table_suffix_ar": "(مبنى جديد؛ بقية بياناته تحتاج تحديثاً)"
       },
       "classification_stars": 1,
       "classification_ar": "نجمة واحدة",
@@ -233,7 +234,7 @@
       },
       "transport_24h_to_haram": null,
       "premium_lobby": null,
-      "restaurant_and_coffee_shop": true,
+      "restaurant_and_coffee_shop": null,
       "highlights_ar": [],
       "details_ar": null
     },
