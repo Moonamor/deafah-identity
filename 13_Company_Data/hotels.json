@@ -1,0 +1,394 @@
+{
+  "updated": "2026-11-15",
+  "count": 12,
+  "total_rooms_and_suites": 4950,
+  "shared_facilities_ar": [
+    "مطعم ومقهى داخلي (Coffee Shop) في كل الفنادق",
+    "جميع الغرف بحمام خاص",
+    "واي فاي مجاني",
+    "استقبال 24 ساعة",
+    "مصاعد",
+    "تكييف",
+    "خدمة الغرف",
+    "غرف عائلية"
+  ],
+  "common_room_types_ar": [
+    "غرفة مزدوجة (سريران فرديان)",
+    "غرفة ثلاثية (3 أسرّة فردية)",
+    "غرفة رباعية (4 أسرّة فردية)"
+  ],
+  "hotels": [
+    {
+      "id": "taj-park",
+      "order": 1,
+      "name": {
+        "ar": "فندق تاج بارك",
+        "short_ar": "تاج بارك",
+        "en": "Taj Park Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 1768,
+      "room_floors": 17,
+      "elevators": 24,
+      "distance_m": 800,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "800 م من الحرم",
+      "district_ar": "جرول",
+      "area_ar": "التيسير",
+      "address": {
+        "short_address": "MATA3060",
+        "formatted_ar": "3060، حي جرول، مكة المكرمة 24231-7860",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": null,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [
+        "أكبر فنادق المجموعة",
+        "مطعم التاج (قاعة الطعام والبوفيه)"
+      ],
+      "details_ar": "في منطقة «سيتي سنتر مكة»، على نحو 0.6 كم من شارع الستين. حمّامات بدُش وشطاف ومجفف شعر، خزنة ومكواة في الغرف، تنظيف يومي، غسيل وتنظيف جاف، حفظ أمتعة، مواقف مجانية، مناطق مخصصة للمدخنين. بوفيه إفطار يومي من 6:30 إلى 10:00 صباحاً برسوم."
+    },
+    {
+      "id": "amjad",
+      "order": 2,
+      "name": {
+        "ar": "فندق أمجاد الضيافة",
+        "short_ar": "أمجاد الضيافة",
+        "en": "Amjad Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 496,
+      "room_floors": 11,
+      "elevators": 10,
+      "distance_m": 800,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "800 م من الحرم",
+      "district_ar": "جرول",
+      "area_ar": "التيسير",
+      "address": {
+        "short_address": "MATA3039",
+        "formatted_ar": "3039، التيسير، حي جرول، مكة المكرمة 24231-7985",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": null,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "في التيسير، شارع جبل الكعبة قرب توسعة الملك عبدالله. الغرف فيها صالة وركن طعام وثلاجة وأدوات مطبخ وغلاية وإطلالة على المدينة. مطعم وخدمة غرف 24 ساعة، إنهاء سريع لإجراءات الوصول والمغادرة، صالون. أنواع غرف إضافية: استوديو (4 أسرّة فردية)، وجناح بغرفتي نوم بإطلالة على المدينة. يذكر الضيوف مصلى للرجال والنساء، وبقالة ومحل هدايا داخل الفندق، وحافلات إلى الحرم أمام الفندق."
+    },
+    {
+      "id": "sama",
+      "order": 3,
+      "name": {
+        "ar": "فندق سما الضيافة",
+        "short_ar": "سما الضيافة",
+        "en": "Sama Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 410,
+      "room_floors": 16,
+      "elevators": null,
+      "distance_m": 2300,
+      "distance_from_ar": "المسجد الحرام",
+      "distance_ar": "نحو 2.3 كم من المسجد الحرام",
+      "district_ar": "العزيزية",
+      "area_ar": "محبس الجن",
+      "address": {
+        "short_address": "MCAC3253",
+        "formatted_ar": "3253، حي العزيزية، مكة المكرمة 24235-9579",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [
+        "لوبي رفيع المستوى مع مول تجاري"
+      ],
+      "details_ar": "شارع الملك عبد العزيز، محبس الجن، العزيزية؛ نحو 2.2 كم من برج الساعة و2.3 كم من المسجد الحرام، وقريب من برج الصفوة. الغرف فيها تلفاز بقنوات فضائية وخزنة وأريكة وثلاجة وغلاية وخزانة، والحمّام بدُش وحوض استحمام ومجفف شعر. صندوق أمانات وحفظ أمتعة."
+    },
+    {
+      "id": "burj",
+      "order": 4,
+      "name": {
+        "ar": "فندق برج الضيافة",
+        "short_ar": "برج الضيافة",
+        "en": "Burj Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 367,
+      "room_floors": 16,
+      "elevators": 8,
+      "distance_m": 1000,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "1,000 م من الحرم",
+      "district_ar": "المسفلة",
+      "area_ar": null,
+      "address": {
+        "short_address": "MCIA8817",
+        "formatted_ar": "8817، شارع الكدوة 304، حي المسفلة، مكة المكرمة 24233-3586",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": null,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [
+        "لوبي رفيع المستوى مع مول تجاري"
+      ],
+      "details_ar": "قرب شارع الهجرة في المسفلة. غرف واسعة فيها منطقة جلوس وخزانة وثلاجة صغيرة وحمّام بدُش، وإطلالة على المدينة. مطعم وحفظ أمتعة. الغرفة المزدوجة بسرير كبير أو سريرين."
+    },
+    {
+      "id": "wahat",
+      "order": 5,
+      "name": {
+        "ar": "فندق واحة الضيافة",
+        "short_ar": "واحة الضيافة",
+        "en": "Wahat Al Deafah Hotel"
+      },
+      "classification_stars": 2,
+      "classification_ar": "نجمتان",
+      "rooms_and_suites": 554,
+      "room_floors": 21,
+      "elevators": 8,
+      "distance_m": 550,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "550 م من الحرم",
+      "district_ar": "أجياد",
+      "area_ar": "أجياد السد",
+      "address": {
+        "short_address": "MAAB6948",
+        "formatted_ar": "6948، 135 أجياد المصافي، حي أجياد، مكة المكرمة 24231-4977",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": null,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "شارع أجياد السد، على طريق الملك عبد العزيز، 550 م من أبراج البيت والمسجد الحرام. الغرف فيها مطبخ صغير ومنطقة جلوس وخزانة وخزنة، وتنظيف يومي. صرف عملات، ومهيأ لمستخدمي الكراسي المتحركة (منها دُش ملائم). أُغلق للتجديد من أبريل إلى سبتمبر 2020."
+    },
+    {
+      "id": "nada",
+      "order": 6,
+      "name": {
+        "ar": "فندق ندى الضيافة",
+        "short_ar": "ندى الضيافة",
+        "en": "Nada Al Deafah Hotel"
+      },
+      "classification_stars": 2,
+      "classification_ar": "نجمتان",
+      "rooms_and_suites": 97,
+      "room_floors": 9,
+      "elevators": 2,
+      "distance_m": 150,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "150 م من الحرم",
+      "district_ar": "أجياد",
+      "area_ar": "أجياد السد",
+      "address": {
+        "short_address": "MAAA6985",
+        "formatted_ar": "6985، 4 أجياد السد، حي أجياد، مكة المكرمة 24231-4593",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": null,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [
+        "الأقرب إلى الحرم بين فنادق المجموعة (150 م)"
+      ],
+      "details_ar": "أجياد السد، خلف فندق المريديان، عند نفق السوق الصغير. الغرف فيها مطبخ صغير وغلاية وثلاجة وركن طعام وتلفاز بقنوات فضائية."
+    },
+    {
+      "id": "anwar",
+      "order": 7,
+      "name": {
+        "ar": "فندق أنوار الضيافة",
+        "short_ar": "أنوار الضيافة",
+        "en": "Anwar Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 94,
+      "room_floors": null,
+      "elevators": null,
+      "distance_m": null,
+      "distance_from_ar": null,
+      "distance_ar": null,
+      "district_ar": "السليمانية",
+      "area_ar": null,
+      "address": {
+        "short_address": "MBJA8520",
+        "formatted_ar": "8520، طريق الملك عبد العزيز، حي السليمانية، مكة المكرمة 24231-4559",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": null,
+      "premium_lobby": null,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": null
+    },
+    {
+      "id": "saraya",
+      "order": 8,
+      "name": {
+        "ar": "فندق سرايا الضيافة",
+        "short_ar": "سرايا الضيافة",
+        "en": "Saraya Al Deafah Hotel"
+      },
+      "classification_stars": 3,
+      "classification_ar": "3 نجوم",
+      "rooms_and_suites": 398,
+      "room_floors": 9,
+      "elevators": 6,
+      "distance_m": 500,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "500 م من الحرم",
+      "district_ar": "جرول",
+      "area_ar": "التيسير",
+      "address": {
+        "short_address": "MAJA3265",
+        "formatted_ar": "3265، شارع 9 جرول، حي جرول، مكة المكرمة 24231-7947",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [
+        "الفندق الوحيد بتصنيف 3 نجوم في المجموعة",
+        "مطعم مع كوفي شوب"
+      ],
+      "details_ar": "شارع جبل الكعبة، التيسير، قرب الطريق الدائري الثاني. الغرف فيها تلفاز وصانعة شاي وقهوة وخزنة ورداء حمّام ومجفف شعر. مطعم الرحاب، مواقف مجانية، غسيل وتنظيف جاف، حفظ أمتعة، ممنوع التدخين في كل الأماكن، ومهيأ لمستخدمي الكراسي المتحركة."
+    },
+    {
+      "id": "bustan",
+      "order": 9,
+      "name": {
+        "ar": "فندق البستان الماسي",
+        "short_ar": "البستان الماسي",
+        "en": "Al-Bustan Al-Massy Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 214,
+      "room_floors": 14,
+      "elevators": null,
+      "distance_m": 850,
+      "distance_from_ar": "توسعة الملك عبدالله",
+      "distance_ar": "850 م من توسعة الملك عبدالله",
+      "district_ar": "جرول",
+      "area_ar": "الحفائر",
+      "address": {
+        "short_address": "MAMA2919",
+        "formatted_ar": "2919، أم القرى، حي جرول، مكة المكرمة 24231-7406",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "شارع أم القرى. تأثيث بسيط، تلفاز بقنوات فضائية وميني بار، حمّام بحوض أو دُش، مطعم، حفظ أمتعة."
+    },
+    {
+      "id": "diyar",
+      "order": 10,
+      "name": {
+        "ar": "فندق ديار الضيافة",
+        "short_ar": "ديار الضيافة",
+        "en": "Diyar Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 192,
+      "room_floors": 12,
+      "elevators": 4,
+      "distance_m": 800,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "800 م من الحرم",
+      "district_ar": "جرول",
+      "area_ar": null,
+      "address": {
+        "short_address": "MATA3095",
+        "formatted_ar": "3095، الطريق الدائري الثاني، حي جرول، مكة المكرمة 24231-8497",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "الطريق الدائري الثاني، جرول. غلاية وتلفاز بقنوات فضائية وحمّام بدُش، كونسيرج وحفظ أمتعة وتنظيف يومي، وموظفو استقبال بالعربية والإنجليزية."
+    },
+    {
+      "id": "riyadh",
+      "order": 11,
+      "name": {
+        "ar": "فندق رياض الضيافة",
+        "short_ar": "رياض الضيافة",
+        "en": "Riyadh Al Deafah Hotel"
+      },
+      "classification_stars": 1,
+      "classification_ar": "نجمة واحدة",
+      "rooms_and_suites": 240,
+      "room_floors": 15,
+      "elevators": 6,
+      "distance_m": 600,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "600 م من الحرم",
+      "district_ar": "جرول",
+      "area_ar": null,
+      "address": {
+        "short_address": "MATB3199",
+        "formatted_ar": "3199، جرول 21، حي جرول، مكة المكرمة 24231-8290",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "جبل الكعبة، جرول. الغرف فيها منطقة جلوس وثلاجة وصانعة شاي وقهوة وتلفاز بقنوات فضائية وخزنة، مع بياضات ومناشف. مطعم بأطباق متنوعة."
+    },
+    {
+      "id": "zahrat-lavender",
+      "order": 12,
+      "name": {
+        "ar": "فندق زهرة اللافندر",
+        "short_ar": "زهرة اللافندر",
+        "en": "Zahrat Al-Lavender Hotel"
+      },
+      "classification_stars": 2,
+      "classification_ar": "نجمتان",
+      "rooms_and_suites": 120,
+      "room_floors": 15,
+      "elevators": null,
+      "distance_m": 1000,
+      "distance_from_ar": "الحرم",
+      "distance_ar": "1,000 م من الحرم",
+      "district_ar": "المنصور",
+      "area_ar": "الحفائر",
+      "address": {
+        "short_address": "MAMA2833",
+        "formatted_ar": "2833، أم القرى، حي المنصور، مكة المكرمة 24231-7390",
+        "city_ar": "مكة المكرمة",
+        "city_en": "Makkah"
+      },
+      "transport_24h_to_haram": true,
+      "premium_lobby": true,
+      "restaurant_and_coffee_shop": true,
+      "highlights_ar": [],
+      "details_ar": "2856 طريق أم القرى، وإطلالة على المدينة. الغرف فيها منطقة جلوس وتلفاز بقنوات فضائية وخزنة وحمّام بدُش ونعال، مع بياضات ومناشف."
+    }
+  ]
+}
