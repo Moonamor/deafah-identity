@@ -203,7 +203,7 @@
       "premium_lobby": true,
       "restaurant_and_coffee_shop": true,
       "highlights_ar": [
-        "الأقرب إلى الحرم بين فنادق المجموعة (150 م)"
+        "على بعد 150 م من الحرم"
       ],
       "details_ar": "أجياد السد، خلف فندق المريديان، عند نفق السوق الصغير. الغرف فيها مطبخ صغير وغلاية وثلاجة وركن طعام وتلفاز بقنوات فضائية."
     },
@@ -222,8 +222,8 @@
       "room_floors": null,
       "elevators": null,
       "distance_m": null,
-      "distance_from_ar": null,
-      "distance_ar": null,
+      "distance_from_ar": "ساحة الحرم",
+      "distance_ar": "ملاصق لساحة الحرم",
       "district_ar": "السليمانية",
       "area_ar": null,
       "address": {
@@ -235,7 +235,9 @@
       "transport_24h_to_haram": null,
       "premium_lobby": null,
       "restaurant_and_coffee_shop": null,
-      "highlights_ar": [],
+      "highlights_ar": [
+        "مبناه الجديد ملاصق لساحة الحرم"
+      ],
       "details_ar": null
     },
     {
